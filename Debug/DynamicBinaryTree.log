@@ -1,6 +1,6 @@
-﻿  stdafx.cpp
-  DynamicBinaryTree.cpp
-c:\users\paulo\documents\visual studio 2015\projects\dynamicbinarytree\dynamicbinarytree\dynamicbinarytree.cpp(77): warning C4129: 'D': unrecognized character escape sequence
-c:\users\paulo\documents\visual studio 2015\projects\dynamicbinarytree\dynamicbinarytree\dynamicbinarytree.cpp(85): warning C4129: 'D': unrecognized character escape sequence
-c:\users\paulo\documents\visual studio 2015\projects\dynamicbinarytree\dynamicbinarytree\dynamicbinarytree.cpp(100): warning C4129: 'I': unrecognized character escape sequence
+﻿  DynamicBinaryTree.cpp
+c:\users\paulo\documents\visual studio 2015\projects\dynamicbinarytree\dynamicbinarytree\dynamicbinarytree.cpp(83): warning C4129: 'D': unrecognized character escape sequence
+c:\users\paulo\documents\visual studio 2015\projects\dynamicbinarytree\dynamicbinarytree\dynamicbinarytree.cpp(91): warning C4129: 'D': unrecognized character escape sequence
+c:\users\paulo\documents\visual studio 2015\projects\dynamicbinarytree\dynamicbinarytree\dynamicbinarytree.cpp(106): warning C4129: 'I': unrecognized character escape sequence
+c:\users\paulo\documents\visual studio 2015\projects\dynamicbinarytree\dynamicbinarytree\dynamicbinarytree.cpp(320): warning C4101: 'h': unreferenced local variable
   DynamicBinaryTree.vcxproj -> C:\Users\Paulo\Documents\Visual Studio 2015\Projects\DynamicBinaryTree\Debug\DynamicBinaryTree.exe
